@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 526fc22ec5d191344a229db491e07c65
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8404be70184654265930450def6a9037, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: Assets/Inputs/CharacterActionControl.cs
+  wrapperClassName: CharacterActionControl
+  wrapperCodeNamespace: 
